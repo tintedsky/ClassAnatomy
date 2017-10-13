@@ -25,7 +25,7 @@
     
     _name = @"Peter";
     
-    NSLog(@"Name: %@", self.name);  // Here I use self.name instead of _name 
+    NSLog(@"Name: %@", self.name);  // Here I use self.name instead of _name
     
     [self setName:@"Sylvia"];
     
